@@ -32,3 +32,12 @@ header .header-content .header-content-inner p {
 .quote-wrap h3 i {
     color: #f05f40;
 }
+
+#social {
+    padding: 60px 0px;
+}
+
+#social a i {
+    font-size: 45px;
+    padding: 0px 5px;
+}
